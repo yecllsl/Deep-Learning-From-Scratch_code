@@ -1,4 +1,4 @@
-# Deep Learning From Scratch code
+# Deep Learning From Scratch code 鸟书，非鱼书四本系列
 
 This repo contains all the code from the book [Deep Learning From Scratch](https://www.amazon.com/Deep-Learning-Scratch-Building-Principles/dp/1492041416), published by O'Reilly in September 2019.
 
